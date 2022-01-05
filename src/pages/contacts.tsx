@@ -30,7 +30,7 @@ const Contacts: React.FC = () => {
         </div>
         <div className="mb-5">
           <a
-            href="https://github.com/seem16"
+            href="https://github.com/sergeyemirzakov"
             target="_blank"
             className="inline-flex items-center hover:underline decoration-dashed underline-offset-4">
             <div className="icon mr-5 p-3 bg-slate-100 rounded-full">
