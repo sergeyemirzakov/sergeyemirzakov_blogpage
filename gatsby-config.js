@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://www.yourdomain.tld',
+    siteUrl: 'http://sergeyemirzakov.gatsbyjs.io/',
     title: '_sergeyemirzakov',
   },
   plugins: [
